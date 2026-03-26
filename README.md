@@ -1,15 +1,15 @@
 # **Lua exploration with LOVE 2D Game Engine**
 ## Purpose
-xxx
+Exploring Lua while being a little lover girl
+Thank you miffynoa for [cute, chill & cool girly nintendo ds music ♡](https://www.youtube.com/watch?v=CEDDSqGD50Q&list=RDCEDDSqGD50Q&start_radio=1)
 
 ## To-do:
-
 - [x] Generate background
 - [x] Generate jack with clear back
 - [x] Generate jaz with clear back and same pixel art
-- [] Add cute background noise
-- [] When same index, heart transition to...
-- [] New screen saying "I've missed you too!"
+- [x] Add cute background noise
+- [x] When same index, heart transition to...
+- [x] New screen saying "I've missed you too!"
 
 ## Run steps
 1. run ```brew install love```
