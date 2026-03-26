@@ -25,3 +25,5 @@ Thank you miffynoa for [cute, chill & cool girly nintendo ds music ♡](https://
 
 [Distribution notes](
 https://love2d.org/wiki/Game_Distribution#Creating_a_macOS_Application)
+
+yes i did use one branch. this is a tiny game
