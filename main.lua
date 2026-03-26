@@ -32,7 +32,7 @@ function love.load()
   messageFade = 0
   messageFadeDuration = 2.2
 
-  finalBg = { 0.06, 0.02, 0.05, 1 }
+  finalBg = { 1, 0.58, 0.74, 1 }
 
   titleFont = love.graphics.getFont()
   messageFont = love.graphics.newFont(60)
@@ -175,10 +175,7 @@ local function drawMessageScreen()
   local x = (width - textWidth) * 0.5
   local y = height * 0.72
 
-  love.graphics.setColor(0, 0, 0, 0.65 * messageFade)
-  love.graphics.print(text, x + 3, y + 3)
-  love.graphics.setColor(1, 0.94, 0.97, messageFade)
-  love.graphics.print(text, x, y)
+  drawOutlinedText(text, x, y, { 0, 0, 0, messageFade }, { 1, 0.94, 0.97, messageFade }, 3)
 end
 
 function love.draw()
