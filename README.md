@@ -1,7 +1,14 @@
 # **Lua exploration with LOVE 2D Game Engine**
+
+![](gfx/start0.png)
+
 ## Purpose
-Exploring Lua while being a little lover girl
+Exploring Lua in a small project while being a little lover girl
+
 Thank you miffynoa for [cute, chill & cool girly nintendo ds music ♡](https://www.youtube.com/watch?v=CEDDSqGD50Q&list=RDCEDDSqGD50Q&start_radio=1)
+
+## Demo
+<video src="https://github.com/jasmimi/lua-jack-and-jaz-reunion/raw/feat/init/demo.mov" controls width="800"></video>
 
 ## To-do:
 - [x] Generate background
