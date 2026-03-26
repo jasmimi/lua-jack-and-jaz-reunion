@@ -4,9 +4,9 @@ xxx
 
 ## To-do:
 
-- [] Generate background
-- [] Generate jack with clear back
-- [] Generate jaz with clear back and same pixel art
+- [x] Generate background
+- [x] Generate jack with clear back
+- [x] Generate jaz with clear back and same pixel art
 - [] Add cute background noise
 - [] When same index, heart transition to...
 - [] New screen saying "I've missed you too!"
